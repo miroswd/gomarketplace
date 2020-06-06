@@ -5,8 +5,8 @@
 
 </br>
 <p align="center">
-  <img src="" width="400px" />
-  <img src="" width="400px" />
+  <img src="https://github.com/miroswd/gomarketplace/blob/master/assets/dashboard.jpeg" width="400px" />
+  <img src="https://github.com/miroswd/gomarketplace/blob/master/assets/cart.jpeg" width="400px" />
 </p>
 
 <h4>Para rodar a aplicação no dispositivo físico</h4>
